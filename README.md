@@ -1,6 +1,6 @@
 # Hallo! 👋 Ich bin Frederik Fingerhut
 
-### Vom komplexesten System der Welt zu datengestützten Analysen und Prozessen 🟢
+### Vom komplexesten System der Welt zu datengestützten Analysen und Prozessen 📊
 
 In den letzten Jahren habe ich unzählige Daten am lebenden Objekt erhoben, ausgewertet und interpretiert – dem menschlichen Körper. Als Bereichsleitung der Physiotherapie und QM-Experte wurde mir bewusst: Meine wahre Stärke liegt darin, Muster zu erkennen, Schwachstellen zu identifizieren und Abläufe durch praxistaugliche Lösungen zu optimieren. 
 
@@ -10,21 +10,23 @@ Um diesen analytischen Weitblick mit professionellem Handwerkszeug zu untermauer
 
 ## 🛠️ Mein Tech-Stack & Tools
 
-<!-- Moderne "Flat-Square" Badges in einem eleganten Grün (Hex: 238636) -->
-![Python](https://img.shields.io/badge/Python-238636?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-238636?style=flat-square&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-238636?style=flat-square&logo=powerbi&logoColor=white)
-![MS Excel](https://img.shields.io/badge/MS_Excel-238636?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-238636?style=flat-square&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-238636?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-238636?style=flat-square&logo=numpy&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-238636?style=flat-square&logo=figma&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![MS Excel](https://img.shields.io/badge/MS_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+<br>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
 ## 🎯 Was ich mitbringe
 
-*   **Datenanalyse & Visualisierung:** Sicherer Umgang mit Python, SQL, Excel und Power BI, um komplexe Sachverhalte klar und zielgruppengerecht zu analysieren und präsentieren.
+*   **Datenanalyse & Visualisierung:** Sicherer Umgang mit Python (insbesondere mit Matplotlib und Seaborn für aussagekräftige Visualisierungen), SQL, Excel und Power BI, um komplexe Sachverhalte klar und zielgruppengerecht zu analysieren und zu präsentieren.
 *   **Qualitätsmanagement & Prozessentwicklung:** Über vier Jahre Erfahrung als QM-Experte. Ich etabliere datengestützte Standards, analysiere und optimiere Prozesse. Die Erstellung und Weiterentwicklung von Dokumenten im QMH ist meine Leidenschaft.
 *   **Controlling & Ressourcenplanung:** Erfahrung in der Bedarfsanalyse, Planung und im Controlling eines Therapiebereichs in einer Klinik mit ca. 400 Mitarbeitenden.
 *   **Digitalisierung & Systemadministration:** Projektmanagement und kontinuierliche Betreuung von Planungssoftware (RehaTIS), um komplexe Anforderungen in digitale Workflows zu übersetzen.
