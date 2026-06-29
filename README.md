@@ -1,7 +1,5 @@
 <img src="https://raw.githubusercontent.com/FFingerhutAnalytics/FFingerhutAnalytics/main/banner.svg" width="100%">
 
-# Hi there I'm Frederik Fingerhut 👋
-
 ### Vom komplexesten System der Welt zu datengestützten Analysen und Prozessen 📊
 
 In den letzten Jahren habe ich unzählige Daten am lebenden Objekt erhoben, ausgewertet und interpretiert – dem menschlichen Körper. Als Bereichsleitung der Physiotherapie und QM-Experte wurde mir bewusst: Meine wahre Stärke liegt darin, Muster zu erkennen, Schwachstellen zu identifizieren und Abläufe durch praxistaugliche Lösungen zu optimieren. 
