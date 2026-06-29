@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/FFingerhutAnalytics/FFingerhutAnalytics/main/banner.svg" width="100%">
+<img src="banner.svg" width="100%">
 
 ### Vom komplexesten System der Welt zu datengestützten Analysen und Prozessen 📊
 
