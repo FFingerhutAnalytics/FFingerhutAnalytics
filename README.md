@@ -1,6 +1,7 @@
 <img src="banner.svg" width="100%">
 
-### Vom komplexesten System der Welt zu datengestützten Analysen und Prozessen 📊
+
+### 🔀 Vom komplexesten System der Welt zu datengestützten Analysen und Prozessen 📊
 
 In den letzten Jahren habe ich unzählige Daten am lebenden Objekt erhoben, ausgewertet und interpretiert – dem menschlichen Körper. Als Bereichsleitung der Physiotherapie und QM-Experte wurde mir bewusst: Meine wahre Stärke liegt darin, Muster zu erkennen, Schwachstellen zu identifizieren und Abläufe durch praxistaugliche Lösungen zu optimieren. 
 
