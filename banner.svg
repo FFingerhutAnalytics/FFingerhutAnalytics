@@ -28,5 +28,5 @@
     <path d="M 0,190 Q 200,230 400,190 T 800,190 T 1200,190 T 1600,190 L 1600,250 L 0,250 Z" fill="#00ffcc"/>
   </g>
 
-  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-size="65" class="text">Hallo Welt</text>
+  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-size="65" class="text">Frederik Fingerhut</text>
 </svg>
