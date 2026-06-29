@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/FFingerhutAnalytics/Frederik Fingerhut/main/banner.svg" width="100%">
+<img src="https://raw.githubusercontent.com/FFingerhutAnalytics/FFingerhutAnalytics/main/banner.svg" width="100%">
 
 # Hi there I'm Frederik Fingerhut 👋
 
